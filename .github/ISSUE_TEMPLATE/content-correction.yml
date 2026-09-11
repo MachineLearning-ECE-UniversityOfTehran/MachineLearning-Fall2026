@@ -1,0 +1,25 @@
+name: Content correction
+about: Report a typo, ambiguity, or issue in already-public course material
+labels: ["content"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form only for issues in material already published in this repository. For grading, deadlines, or course-policy questions, use the official course communication channels.
+  - type: input
+    id: file
+    attributes:
+      label: File or page
+      placeholder: e.g. assignments/HW2/ML-HW2.pdf, page 3
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What seems wrong or unclear?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested correction (optional)

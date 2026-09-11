@@ -1,0 +1,21 @@
+name: Broken link or missing public file
+about: Report a repository navigation or download problem
+labels: ["repository"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Where is the broken link/file referenced?
+      placeholder: README section or repository path
+    validations:
+      required: true
+  - type: input
+    id: target
+    attributes:
+      label: Link or expected file
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
