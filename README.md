@@ -39,15 +39,15 @@ This repository is the student-facing home for **Machine Learning — Fall 1405 
 
 ### Instructors
 
-- [**Dr. Mostafa Tavassolipour**](https://scholar.google.com/scholar?q=%22Mostafa+Tavassolipour%22)
-- [**Dr. Mohammad-Reza Abolghasemi Dehaqani**](https://scholar.google.com/scholar?q=%22Mohammad-Reza+Abolghasemi+Dehaqani%22)
+- [**Dr. Mostafa Tavassolipour**](https://scholar.google.com/citations?hl=en&user=oVAT1lYAAAAJ)
+- [**Dr. Mohammad-Reza Abolghasemi Dehaqani**](https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en)
 - [**Prof. Babak Nadjar Araabi**](https://scholar.google.com/citations?hl=en&user=FTcata0AAAAJ)
 
 ### Course Coordination & Supervision
 
 | Role | Staff |
 |---|---|
-| **Course Coordinator & Supervisor** | [**Mostafa Kermani Nia**](https://www.linkedin.com/in/mostafakermaninia) |
+| **Course Coordinator & Supervisor** | [**Mostafa Kermani Nia**](https://github.com/mostafa-kermaninia) |
 | **Supervisor** | [**Mohammad Amanlou**](https://github.com/MohammadAmanlou) |
 | **Supervisor** | [**Amir Naddaf Fahmideh**](https://github.com/AmirNaddaf2004) |
 | **Supervisor** | [**Faezeh Mozaffari**](https://www.linkedin.com/in/faezeh-mozaffari-7816b6230) |
