@@ -1,5 +1,7 @@
+<p align="center"><a href="../"><strong>⚡ Quizzes</strong></a> · <a href="../../">Course Home</a></p>
+
 # Quiz 2
 
-Status: **Not released**.
+![Status](https://img.shields.io/badge/status-upcoming-8a6d3b?style=flat-square)
 
-Coverage, date, and any public post-quiz material will be added after official announcement.
+Scope, format, and timing will be announced through official course channels. Approved public material may be archived here after release.
