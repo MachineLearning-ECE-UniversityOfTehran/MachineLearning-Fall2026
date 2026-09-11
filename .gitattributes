@@ -1,0 +1,14 @@
+* text=auto eol=lf
+
+*.pdf binary
+*.docx binary
+*.pptx binary
+*.xlsx binary
+*.zip binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+
+# If large videos are added, configure Git LFS before committing them.
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mkv filter=lfs diff=lfs merge=lfs -text
