@@ -25,7 +25,8 @@ Each release may contain a problem statement, starter notebook, datasets, and su
 - Theory answers should be concise, complete, and readable.
 - Programming work is submitted as a reproducible **`.ipynb`** notebook unless stated otherwise.
 - A grader should be able to run the notebook from top to bottom without editing the submitted code.
-- Graduate students may receive one additional advanced question in each assignment.
+- **Graduate ML:** each assignment may include **one or two additional advanced questions**. Questions may also assess material taught only in the graduate section.
+- **Introduction to ML:** graduate-only advanced questions or questions based on graduate-only material are not required.
 - The approved course description and eLearn announcements are authoritative for grading and deadline rules.
 
 > [!WARNING]
