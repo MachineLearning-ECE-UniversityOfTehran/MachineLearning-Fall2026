@@ -66,7 +66,8 @@ This repository is the student-facing home for **Machine Learning — Fall 1405 
 [Mani Hosseini](https://github.com/manih1384) ·
 [Paria Pasehvarz](https://github.com/PariaPasehvarz) ·
 [Alireza Zamani](https://www.linkedin.com/in/zalireza) ·
-[Hamidreza Talei](https://github.com/Hamidreza-Talei)
+[Hamidreza Talei](https://github.com/Hamidreza-Talei) ·
+[Shahab Sherafat](https://ir.linkedin.com/in/shahab-sherafat-2a6712236)
 
 ---
 
@@ -89,8 +90,9 @@ This repository is the student-facing home for **Machine Learning — Fall 1405 
 
 | Item | Current status |
 |---|---|
+| **Fall 1405 classes begin** | **1405/07/04 (2026-09-26)** |
 | **Graduate lectures** | **Saturday & Monday, 10:30–12:00, Class 2** |
-| **TA session** | **Monday, 12:00–13:00** — quiz / tutorial / problem solving / office hours when announced |
+| **TA session** | **Monday, 12:00–13:00** — shared by both sections unless otherwise announced |
 | **Graduate final exam** | **1405/11/10 — Morning** · exact time/room to be announced |
 | **Undergraduate timetable** | **To be confirmed by the instructors** |
 | **Course description & policy** | Published and maintained under [`docs/course-description/`](docs/course-description/) |
@@ -136,7 +138,7 @@ The course includes **five individual assignments** combining theoretical work a
 
 Programming submissions are expected to be reproducible in **Python 3 / Jupyter**: a grader should be able to run a notebook from top to bottom and reproduce its outputs without modifying the submitted code.
 
-Graduate students may receive an additional advanced question in each assignment as specified in the release. The approved course description remains the authoritative source for grading and submission policy.
+Graduate students may receive **one or two additional advanced questions** in each assignment, including questions based on material taught only in the graduate section. These graduate-only questions are not required in Introduction to Machine Learning. The approved course descriptions remain authoritative for grading and submission policy.
 
 ---
 
@@ -144,7 +146,7 @@ Graduate students may receive an additional advanced question in each assignment
 
 The final project is organized in **three phases** and is completed in groups of four. Public phase descriptions, starter material, and submission guidance are published under [`project/`](project/).
 
-The project culminates in an **oral defense**. Every team member is expected to understand the complete project, and individual scores may differ according to demonstrated understanding and contribution.
+Some advanced components may be designated as **mandatory for graduate Machine Learning teams** and **optional bonus work for Introduction to Machine Learning teams**. The project culminates in an **oral defense**. Every team member is expected to understand the complete project, and individual scores may differ according to demonstrated understanding and contribution.
 
 ---
 
