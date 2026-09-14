@@ -18,6 +18,15 @@
 
 The final project is designed as a staged machine-learning workflow rather than a single end-of-semester submission. Each phase has its own public instructions and deliverables when released.
 
+## Graduate / Undergraduate Requirements
+
+The core project is shared across both course sections. Some advanced components may be designated specifically for the graduate **Machine Learning** section:
+
+- **Graduate ML:** components explicitly marked as advanced/graduate requirements are mandatory.
+- **Introduction to ML:** the same advanced components are optional **bonus** work unless a release explicitly states otherwise.
+
+All standard undergraduate deliverables remain required.
+
 ## Defense
 
 The project concludes with an **oral defense**. Every team member must understand the complete pipeline, design choices, experiments, and conclusions. Individual scores may differ based on demonstrated understanding and contribution.
