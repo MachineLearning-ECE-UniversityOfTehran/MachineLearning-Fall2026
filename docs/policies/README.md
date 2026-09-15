@@ -1,10 +1,47 @@
-# Focused Policies
+# Course Policies
 
-This folder is reserved for short, instructor-approved policy documents that benefit from being published separately from the full course description, such as:
+These policies apply to both **Machine Learning (M.Sc.)** and **Introduction to Machine Learning (B.Sc.)**, unless a section-specific release explicitly states otherwise.
 
-- submission/reproducibility notes;
-- regrade procedure;
-- academic-integrity clarifications;
-- final-project delivery/defense rules.
+## Assessment & Grading
 
-The full course description remains authoritative.
+| Component | Course points |
+|---|---:|
+| 5 Assignments | **5** |
+| 5 Quizzes | **2** |
+| Midterm Exam | **5** |
+| Final Exam | **6** |
+| Final Project | **3** |
+| **Total available** | **21** |
+
+The final course grade is reported out of **20**. Therefore, up to **1 point** acts as bonus credit; scores above 20 are recorded as 20.
+
+### Exam cutoff
+
+To satisfy the course passing condition, the combined **Midterm + Final Exam** score must be at least **6 out of 11**. A student below this cutoff cannot pass the course regardless of points earned from assignments, quizzes, or the project.
+
+### Quiz–assignment cutoff rule
+
+There are five quizzes. If a student's score on a quiz falls below the **announced quiz cutoff**, the student's normalized score on that quiz, mapped to the corresponding assignment scale, replaces the score of the corresponding assignment. The numerical quiz cutoff is announced through the official course channels before the rule is applied.
+
+## Teaching-mode assumption
+
+The assessment policy is designed for **in-person instruction**, including in-person quizzes and examinations unless announced otherwise. If the University moves the course online or to a materially different teaching mode, quiz/exam mechanics and related assessment rules may be revised by the instructors and announced officially.
+
+## B.Sc. / M.Sc. distinction
+
+The two sections share the core assessment structure. Graduate assignments may contain **1–2 additional advanced questions**, including questions based on graduate-only material. Advanced project components explicitly designated for the graduate section are **mandatory for M.Sc. teams** and **optional bonus work for B.Sc. teams**.
+
+## Submission & late policy
+
+- Assignments are individual unless a release explicitly states otherwise.
+- Programming submissions must be reproducible in Python 3 / Jupyter.
+- Assignments incur a **10% penalty of the assignment's total score per calendar day** of delay.
+- Each assignment has a maximum **7-day** late window; there is no grace period.
+- No assignment is accepted after its announced late deadline or after the official solution is published, whichever comes first.
+- The final project is not accepted after its final deadline unless the instructors explicitly announce an exception.
+
+## Academic integrity
+
+Students must understand and be able to explain all submitted work, including AI-assisted text, derivations, or code. Ready-made Internet solutions and AI-generated material that the student cannot explain are not acceptable submissions. Assignment cheating may result in a **100% negative score** for the assignment for each student involved; quiz and exam misconduct is handled under University regulations.
+
+Official eLearn announcements and the instructor-approved course descriptions remain authoritative if any summary here becomes outdated.
