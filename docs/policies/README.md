@@ -1,6 +1,6 @@
 # Course Policies
 
-These policies apply to both **Machine Learning (M.Sc.)** and **Introduction to Machine Learning (B.Sc.)**, unless a section-specific release explicitly states otherwise.
+These policies apply to both **Machine Learning (M.Sc.)** and **Introduction to Machine Learning (B.Sc.)**, unless a release explicitly states otherwise.
 
 ## Assessment & Grading
 
@@ -21,15 +21,19 @@ To satisfy the course passing condition, the combined **Midterm + Final Exam** s
 
 ### Quiz–assignment cutoff rule
 
-There are five quizzes. If a student's score on a quiz falls below the **announced quiz cutoff**, the student's normalized score on that quiz, mapped to the corresponding assignment scale, replaces the score of the corresponding assignment. The numerical quiz cutoff is announced through the official course channels before the rule is applied.
+There are five quizzes, with `Quiz i` aligned to `HW i`. If a student's score on a quiz falls below the **announced numerical quiz cutoff**, the student's normalized score on that quiz, mapped to the corresponding **1-point assignment scale**, replaces the score of the corresponding assignment. The numerical cutoff and mapping details are announced through official course channels before the rule is applied.
 
 ## Teaching-mode assumption
 
 The assessment policy is designed for **in-person instruction**, including in-person quizzes and examinations unless announced otherwise. If the University moves the course online or to a materially different teaching mode, quiz/exam mechanics and related assessment rules may be revised by the instructors and announced officially.
 
+## Shared public releases
+
+Whenever feasible, both sections use **one shared assignment or project release package**. Graduate-only questions or advanced requirements are clearly marked inside that same file instead of maintaining duplicate undergraduate/graduate public copies.
+
 ## B.Sc. / M.Sc. distinction
 
-The two sections share the core assessment structure. Graduate assignments may contain **1–2 additional advanced questions**, including questions based on graduate-only material. Advanced project components explicitly designated for the graduate section are **mandatory for M.Sc. teams** and **optional bonus work for B.Sc. teams**.
+The two sections share the core assessment structure. Graduate assignments may contain **1–2 additional advanced questions**, including questions based on graduate-only material. Those marked graduate-only questions are not required for the undergraduate section. Advanced project components explicitly designated for the graduate section are **mandatory for M.Sc. teams** and **optional bonus work for B.Sc. teams**.
 
 ## Submission & late policy
 
@@ -43,5 +47,7 @@ The two sections share the core assessment structure. Graduate assignments may c
 ## Academic integrity
 
 Students must understand and be able to explain all submitted work, including AI-assisted text, derivations, or code. Ready-made Internet solutions and AI-generated material that the student cannot explain are not acceptable submissions. Assignment cheating may result in a **100% negative score** for the assignment for each student involved; quiz and exam misconduct is handled under University regulations.
+
+Exact lecture times, rooms, exam times, and other section-specific logistics belong to the official course calendar and announcement channels rather than this public policy page.
 
 Official eLearn announcements and the instructor-approved course descriptions remain authoritative if any summary here becomes outdated.
