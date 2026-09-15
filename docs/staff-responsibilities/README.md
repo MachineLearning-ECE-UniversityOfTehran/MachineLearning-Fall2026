@@ -33,7 +33,8 @@ Responsibilities include:
 
 - three-phase project design and release preparation;
 - dataset / starter-code validation where applicable;
-- graduate-required vs undergraduate-bonus component separation;
+- one shared public release package where feasible;
+- graduate-required vs undergraduate-bonus component separation inside the same release;
 - rubric and defense-question preparation;
 - submission triage and oral-defense logistics;
 - grading consistency checks across groups.
@@ -46,8 +47,6 @@ Responsibilities include:
 - **Question contributors:** HW1–HW3 teams
 - **Grading pool:** Aida Roshani, Yasaman Amou Jafary, Mohammad Amin Nosrati, Paria Pasehvarz, Shahab Sherafat, Amirhossein Arefzadeh; additional TAs may be added to balance grading load.
 
-The proposed midterm date remains provisional until instructor confirmation.
-
 ## Final Exam
 
 - **Course coordination / final packaging:** Mostafa Kermani Nia
@@ -57,14 +56,11 @@ The proposed midterm date remains provisional until instructor confirmation.
 - **Question contributors:** HW4–HW5 teams plus selected first-half reviewers as needed
 - **Grading:** distributed across the full TA team by question to keep the load balanced and grading consistent.
 
-Confirmed final-exam schedule:
-
-- **Machine Learning (M.Sc.):** 1405/11/10, **08:30–11:30**
-- **Introduction to Machine Learning (B.Sc.):** 1405/11/10, **14:00–17:00**
+Exact exam dates/times and other section-specific logistics remain in the official calendar and announcement channels rather than this public page.
 
 ## TA Sessions
 
-The shared Monday **12:00–13:00** session is topic-driven. Typical ownership follows the active syllabus block:
+TA-session ownership follows the active syllabus block:
 
 | Period | Primary session owners |
 |---|---|
@@ -76,7 +72,7 @@ The shared Monday **12:00–13:00** session is topic-driven. Typical ownership f
 | Clustering / Mixture Models / EM | Alireza Zamani · Hamidreza Talei |
 | Orientation / policy / cross-course review | Mostafa Kermani Nia + relevant supervisor(s) |
 
-A session may instead be used for an announced in-person quiz, exam review, office hour, or problem-solving session.
+A session may instead be used for an announced quiz, exam review, office hour, or problem-solving session. Exact schedules are announced through official course channels.
 
 ## Workload principle
 
