@@ -35,7 +35,7 @@
 
 ## 🎓 Course Overview
 
-This repository is the student-facing home for **Machine Learning — Fall 1405 (Fall 2026)** at the University of Tehran. It contains the public course material, assignment and project releases, quiz and exam resources, TA-session material, course documentation, and supporting references.
+This repository is the student-facing home for **Machine Learning — Fall 1405 (Fall 2026)** at the University of Tehran. It contains public material for both the graduate **Machine Learning** section and the undergraduate **Introduction to Machine Learning** section.
 
 ### Instructors
 
@@ -88,15 +88,14 @@ This repository is the student-facing home for **Machine Learning — Fall 1405 
 
 ## 📌 Course Essentials
 
-| Item | Current status |
+| Item | Confirmed information |
 |---|---|
 | **Fall 1405 classes begin** | **1405/07/04 (2026-09-26)** |
 | **Graduate lectures** | **Saturday & Monday, 10:30–12:00, Class 2** |
-| **TA session** | **Monday, 12:00–13:00** — shared by both sections unless otherwise announced |
-| **Graduate final exam** | **1405/11/10 — Morning** · exact time/room to be announced |
-| **Undergraduate timetable** | **To be confirmed by the instructors** |
-| **Course description & policy** | Published and maintained under [`docs/course-description/`](docs/course-description/) |
-| **Course calendar** | Maintained under [`docs/calendar/`](docs/calendar/) and the official live calendar |
+| **Undergraduate lectures** | **Saturday & Monday, 15:00–16:30** · classroom TBA |
+| **Shared TA session** | **Monday, 12:00–13:00** |
+| **Graduate final exam** | **1405/11/10 (2027-01-30), 08:30–11:30** · room TBA |
+| **Undergraduate final exam** | **1405/11/10 (2027-01-30), 14:00–17:00** · room TBA |
 | **Official announcements** | **eLearn** is the authoritative announcement channel |
 
 > [!IMPORTANT]
@@ -113,8 +112,33 @@ This repository is the student-facing home for **Machine Learning — Fall 1405 
 | Bayesian Classifiers | Logistic Regression | Neural Networks |
 | Risk Minimization & Decision Boundaries | Linear Regression | PCA / LDA |
 | Naive Bayes | Non-Linear Regression | Feature Selection · Clustering |
+|  |  | **Mixture Models · Expectation-Maximization (EM)** |
 
 The exact pacing may change during the semester according to instructor decisions and the official calendar.
+
+---
+
+## 📊 Assessment & Passing Policy
+
+The same core grading structure applies to both sections:
+
+| Component | Points |
+|---|---:|
+| 5 Assignments | **5** |
+| 5 Quizzes | **2** |
+| Midterm Exam | **5** |
+| Final Exam | **6** |
+| Final Project | **3** |
+| **Total available** | **21** |
+
+The final course grade is reported out of **20**, so up to **1 point** functions as bonus credit.
+
+> [!WARNING]
+> **Exam cutoff:** the combined **Midterm + Final Exam** score must be at least **6/11**. A student below this cutoff cannot pass the course regardless of assignment, quiz, or project points.
+
+**Quiz–assignment cutoff:** if a quiz score is below the announced quiz cutoff, its normalized score on the corresponding assignment scale replaces the score of the corresponding assignment. The numerical cutoff and mapping details are announced through the official course channels.
+
+This assessment policy assumes **in-person delivery**. If the University moves the course online or changes the teaching mode materially, quiz/exam mechanics and related rules may be revised by the instructors and announced officially.
 
 ---
 
@@ -126,7 +150,7 @@ The exact pacing may change during the semester according to instructor decision
 | **02** | MLE · Optimization | HW2 · Quiz 2 |
 | **03** | Regression · Decision Trees · SVM | HW3/HW4 · Quizzes 3–4 · Midterm |
 | **04** | Neural Networks · PCA/LDA | Project Phase 2 · HW5 preparation |
-| **05** | Feature Selection · Clustering · Review | Quiz 5 · Project Phase 3 · Final preparation |
+| **05** | Feature Selection · Clustering · Mixture Models · EM · Review | Quiz 5 · Project Phase 3 · Final preparation |
 
 For exact dates, use the official course calendar rather than this high-level roadmap.
 
@@ -134,19 +158,17 @@ For exact dates, use the official course calendar rather than this high-level ro
 
 ## 🧠 Assignments & Reproducibility
 
-The course includes **five individual assignments** combining theoretical work and programming. Public packages live under [`assignments/`](assignments/).
+The course includes **five individual assignments** combining theoretical work and programming. Programming submissions are expected to be reproducible in **Python 3 / Jupyter**.
 
-Programming submissions are expected to be reproducible in **Python 3 / Jupyter**: a grader should be able to run a notebook from top to bottom and reproduce its outputs without modifying the submitted code.
-
-Graduate students may receive **one or two additional advanced questions** in each assignment, including questions based on material taught only in the graduate section. These graduate-only questions are not required in Introduction to Machine Learning. The approved course descriptions remain authoritative for grading and submission policy.
+Graduate students may receive **one or two additional advanced questions** in each assignment, including questions based on material taught only in the graduate section. These graduate-only questions are not required in Introduction to Machine Learning.
 
 ---
 
 ## 🏆 Final Project
 
-The final project is organized in **three phases** and is completed in groups of four. Public phase descriptions, starter material, and submission guidance are published under [`project/`](project/).
+The final project is organized in **three phases** and is completed in groups of four. Some advanced components may be designated as **mandatory for graduate Machine Learning teams** and **optional bonus work for Introduction to Machine Learning teams**.
 
-Some advanced components may be designated as **mandatory for graduate Machine Learning teams** and **optional bonus work for Introduction to Machine Learning teams**. The project culminates in an **oral defense**. Every team member is expected to understand the complete project, and individual scores may differ according to demonstrated understanding and contribution.
+The project culminates in an **oral defense**. Every team member is expected to understand the complete project, and individual scores may differ according to demonstrated understanding and contribution.
 
 ---
 
