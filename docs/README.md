@@ -1,7 +1,7 @@
 <p align="center"><a href="../"><img src="../assets/banner.svg" alt="Machine Learning — Fall 2026" width="100%" /></a></p>
 
 <h1 align="center">📝 Course Documentation</h1>
-<p align="center"><strong>Description · Calendar · Policies · Public references</strong></p>
+<p align="center"><strong>Description · Calendar · Policies · Staff Responsibilities · Public references</strong></p>
 <p align="center"><img alt="Docs" src="https://img.shields.io/badge/course%20docs-official-1f4e79?style=flat-square" /> <img alt="Announcements" src="https://img.shields.io/badge/announcements-eLearn-355c7d?style=flat-square" /></p>
 
 <p align="center"><a href="../">← Course Home</a> · <a href="../lectures/">Lectures</a> · <a href="../assignments/">Assignments</a> · <a href="../project/">Final Project</a></p>
@@ -14,7 +14,8 @@
 |---|---|
 | 📘 [`course-description/`](course-description/) | Course structure, grading, assignments, project, integrity, and staff information |
 | 📅 [`calendar/`](calendar/) | Semester timeline, lectures, assessments, assignments, and project milestones |
-| 🛡️ [`policies/`](policies/) | Public-facing policy references and clarifications |
+| 🛡️ [`policies/`](policies/) | Shared grading, passing, quiz-cutoff, submission, and integrity policies |
+| 👥 [`staff-responsibilities/`](staff-responsibilities/) | Assignment/quiz ownership, final-project team, exam coordination, and TA-session rotation |
 | 🔧 [`../CONTRIBUTING.md`](../CONTRIBUTING.md) | Repository contribution and release workflow |
 | ⚖️ [`../LICENSE`](../LICENSE) | Reuse terms for public course material |
 
