@@ -1,16 +1,6 @@
 # Course Calendar
 
-The repository tracks separate calendar views for the graduate **Machine Learning** course and the undergraduate **Introduction to Machine Learning** course.
-
-## Confirmed section schedules
-
-| Item | Machine Learning (M.Sc.) | Introduction to ML (B.Sc.) |
-|---|---|---|
-| Lectures | Saturday & Monday, **10:30–12:00**, Class 2 | Saturday & Monday, **15:00–16:30**, classroom TBA |
-| Shared TA session | Monday, **12:00–13:00** | Monday, **12:00–13:00** |
-| Final exam | **1405/11/10, 08:30–11:30** | **1405/11/10, 14:00–17:00** |
-
-Fall 1405 classes begin **1405/07/04 (2026-09-26)**.
+This repository keeps the **public academic structure** of the course, while section-specific operational details such as lecture times, rooms, and exam times remain in the official course calendar and announcement channels.
 
 ## Five assessment blocks
 
@@ -22,7 +12,9 @@ The semester plan aligns each assignment with its corresponding quiz:
 4. **Neural Networks · PCA/LDA · Feature Selection** — HW4 / Quiz 4
 5. **Clustering · Mixture Models · Expectation-Maximization (EM)** — HW5 / Quiz 5
 
-The exact release/due dates remain subject to lecture pace and instructor approval. The detailed staff ownership map is available under [`../staff-responsibilities/`](../staff-responsibilities/).
+## Shared release principle
+
+Whenever feasible, the graduate and undergraduate sections use **one shared public assignment/project release**. Graduate-only questions or advanced requirements are clearly marked inside that same file rather than maintaining duplicate public copies.
 
 ## Grading and passing conditions
 
@@ -47,4 +39,4 @@ The published assessment mechanics assume **in-person delivery**. If the Univers
 
 Graduate assignments may include **1–2 additional advanced questions**, including questions from graduate-only material. Advanced final-project components marked for the graduate section are mandatory for M.Sc. teams and optional bonus work for B.Sc. teams.
 
-When there is any conflict, the approved course calendar and official eLearn announcements take precedence over summaries in this repository.
+For exact dates, lecture times, rooms, exam times, and other operational details, use the instructor-approved calendar and official eLearn announcements rather than this public repository.
