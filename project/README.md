@@ -4,9 +4,17 @@
 <p align="center"><strong>Three phases · Teams of four · Final oral defense</strong></p>
 <p align="center"><img alt="Project" src="https://img.shields.io/badge/final%20project-3%20points-1f4e79?style=flat-square" /> <img alt="Phases" src="https://img.shields.io/badge/phases-3-355c7d?style=flat-square" /> <img alt="Teams" src="https://img.shields.io/badge/team%20size-4-6f42c1?style=flat-square" /></p>
 
-<p align="center"><a href="../">← Course Home</a> · <a href="../assignments/">Assignments</a> · <a href="../resources/">Resources</a> · <a href="../docs/">Course Docs</a></p>
+<p align="center"><a href="../">← Course Home</a> · <a href="../assignments/">Assignments</a> · <a href="../resources/">Resources</a> · <a href="../docs/staff-responsibilities/">Staff Responsibilities</a></p>
 
 ---
+
+## Project Team
+
+- **Project Supervisor:** Mohammad Amanlou
+- **Course coordination / release QA:** Mostafa Kermani Nia
+- **Primary TAs:** Saman Davachi Tousi · Mani Hosseini · Mohammad Erfan Danayi · Amin Aghakasiri
+
+The project team owns phase design, starter-material validation, rubric and defense preparation, submission triage, and consistency checks across groups.
 
 ## Project Journey
 
