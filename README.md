@@ -4,9 +4,7 @@
 
 <h1 align="center">Machine Learning — Fall 1405 / Fall 2026</h1>
 
-<p align="center">
-  <strong>Official Course Repository · School of Electrical & Computer Engineering · University of Tehran</strong>
-</p>
+<p align="center"><strong>Official Course Repository · School of Electrical & Computer Engineering · University of Tehran</strong></p>
 
 <p align="center">
   <a href="https://github.com/MachineLearning-ECE-UniversityOfTehran/MachineLearning-Fall2026/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/MachineLearning-ECE-UniversityOfTehran/MachineLearning-Fall2026?style=for-the-badge&logo=github" /></a>
@@ -35,7 +33,7 @@
 
 ## 🎓 Course Overview
 
-This repository is the student-facing home for **Machine Learning — Fall 1405 (Fall 2026)** at the University of Tehran. It contains public material for both the graduate **Machine Learning** section and the undergraduate **Introduction to Machine Learning** section.
+This repository is the public, reusable course-material hub for the University of Tehran Machine Learning course. It serves both the graduate **Machine Learning** section and the undergraduate **Introduction to Machine Learning** section without duplicating equivalent public material.
 
 ### Instructors
 
@@ -81,25 +79,8 @@ This repository is the student-facing home for **Machine Learning — Fall 1405 
 | 🏆 | [**Final Project**](project/) | Three project phases, public instructions, and resources |
 | 🧑‍🏫 | [**TA Sessions**](ta-sessions/) | Tutorials, review sessions, and problem-solving material |
 | 📚 | [**Resources**](resources/) | Supplementary references, notebooks, and helper material |
-| 📝 | [**Course Docs**](docs/) | Description, calendar, policies, and repository documentation |
-| 🧪 | [**Exams**](exams/) | Public midterm/final material when appropriate |
-
----
-
-## 📌 Course Essentials
-
-| Item | Confirmed information |
-|---|---|
-| **Fall 1405 classes begin** | **1405/07/04 (2026-09-26)** |
-| **Graduate lectures** | **Saturday & Monday, 10:30–12:00, Class 2** |
-| **Undergraduate lectures** | **Saturday & Monday, 15:00–16:30** · classroom TBA |
-| **Shared TA session** | **Monday, 12:00–13:00** |
-| **Graduate final exam** | **1405/11/10 (2027-01-30), 08:30–11:30** · room TBA |
-| **Undergraduate final exam** | **1405/11/10 (2027-01-30), 14:00–17:00** · room TBA |
-| **Official announcements** | **eLearn** is the authoritative announcement channel |
-
-> [!IMPORTANT]
-> Calendar details may be updated during the semester. When there is a conflict, official eLearn announcements and the approved course calendar take precedence over summaries in this repository.
+| 📝 | [**Course Docs**](docs/) | Policies, release structure, and repository documentation |
+| 🧪 | [**Exams**](exams/) | Public exam material when appropriate |
 
 ---
 
@@ -114,7 +95,19 @@ This repository is the student-facing home for **Machine Learning — Fall 1405 
 | Naive Bayes | Non-Linear Regression | Feature Selection · Clustering |
 |  |  | **Mixture Models · Expectation-Maximization (EM)** |
 
-The exact pacing may change during the semester according to instructor decisions and the official calendar.
+---
+
+## 🧠 Five Assessment Blocks
+
+| Block | Core topics |
+|:--:|---|
+| **HW1 + Quiz 1** | Bayesian Classifiers · Risk Minimization · Decision Boundaries · Naive Bayes |
+| **HW2 + Quiz 2** | MLE · Optimization · Logistic Regression · Linear & Non-Linear Regression |
+| **HW3 + Quiz 3** | Decision Trees · SVM · Kernels · model comparison |
+| **HW4 + Quiz 4** | Neural Networks · PCA/LDA · Feature Selection |
+| **HW5 + Quiz 5** | Clustering · Mixture Models · Expectation-Maximization (EM) |
+
+Whenever feasible, **one shared assignment handout** is released for both sections. Graduate-only questions are clearly marked—typically at the end of the same handout—so the repository does not maintain duplicate undergraduate/graduate copies of the same assignment.
 
 ---
 
@@ -136,39 +129,25 @@ The final course grade is reported out of **20**, so up to **1 point** functions
 > [!WARNING]
 > **Exam cutoff:** the combined **Midterm + Final Exam** score must be at least **6/11**. A student below this cutoff cannot pass the course regardless of assignment, quiz, or project points.
 
-**Quiz–assignment cutoff:** if a quiz score is below the announced quiz cutoff, its normalized score on the corresponding assignment scale replaces the score of the corresponding assignment. The numerical cutoff and mapping details are announced through the official course channels.
+**Quiz–assignment cutoff:** `Quiz i` is aligned with `HW i`. If the quiz score falls below the announced numerical cutoff, the quiz score is normalized to the corresponding **1-point assignment scale** and replaces the score of `HW i`. The numerical cutoff and mapping details are announced through official course channels.
 
-This assessment policy assumes **in-person delivery**. If the University moves the course online or changes the teaching mode materially, quiz/exam mechanics and related rules may be revised by the instructors and announced officially.
-
----
-
-## 🗺️ Semester Roadmap
-
-| Block | Core topics | Expected activity |
-|:--:|---|---|
-| **01** | Data · Bayesian Classification · Risk Minimization · Naive Bayes | HW1 · Quiz 1 |
-| **02** | MLE · Optimization | HW2 · Quiz 2 |
-| **03** | Regression · Decision Trees · SVM | HW3/HW4 · Quizzes 3–4 · Midterm |
-| **04** | Neural Networks · PCA/LDA | Project Phase 2 · HW5 preparation |
-| **05** | Feature Selection · Clustering · Mixture Models · EM · Review | Quiz 5 · Project Phase 3 · Final preparation |
-
-For exact dates, use the official course calendar rather than this high-level roadmap.
-
----
-
-## 🧠 Assignments & Reproducibility
-
-The course includes **five individual assignments** combining theoretical work and programming. Programming submissions are expected to be reproducible in **Python 3 / Jupyter**.
-
-Graduate students may receive **one or two additional advanced questions** in each assignment, including questions based on material taught only in the graduate section. These graduate-only questions are not required in Introduction to Machine Learning.
+This policy assumes **in-person delivery**. If teaching moves online or changes materially, quiz/exam mechanics and related rules may be revised by the instructors.
 
 ---
 
 ## 🏆 Final Project
 
-The final project is organized in **three phases** and is completed in groups of four. Some advanced components may be designated as **mandatory for graduate Machine Learning teams** and **optional bonus work for Introduction to Machine Learning teams**.
+The final project is organized in **three phases** and completed in groups of four. Whenever feasible, both sections use the same project release package. Components explicitly marked as advanced/graduate requirements are **mandatory for graduate teams** and **optional bonus work for undergraduate teams**.
 
 The project culminates in an **oral defense**. Every team member is expected to understand the complete project, and individual scores may differ according to demonstrated understanding and contribution.
+
+---
+
+## 🌐 Public Repository Principle
+
+This repository intentionally focuses on material useful beyond one classroom schedule. **Section-specific lecture times, rooms, exam times, and other operational logistics are kept in the official course calendar / announcement channels rather than duplicated here.**
+
+The public repository also excludes unpublished solutions, private rubrics, grades, student data, and staff-only assessment material.
 
 ---
 
@@ -176,28 +155,15 @@ The project culminates in an **oral defense**. Every team member is expected to 
 
 Students must understand and be able to explain the work they submit, including AI-assisted text, derivations, or code. Ready-made Internet code and AI-generated material that the student cannot explain are not acceptable course submissions.
 
-The public repository intentionally excludes unpublished solutions, private rubrics, grades, student data, and staff-only assessment material.
-
 ---
 
 ## 🔧 Repository Workflow
-
-This is the **public/student-facing repository**. Draft solutions, grading rubrics, answer keys, student records, and unreleased assessment material belong in a separate private staff workspace.
 
 Course staff should use branches and pull requests for substantive changes. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the release workflow and review checklist.
 
 ---
 
-## 📣 Communication
-
-- **Official announcements:** eLearn
-- **Supplementary communication:** Telegram, when announced by the course staff
-- **Course questions:** use the channels announced by the instructors/course staff
-- **Repository corrections:** GitHub Issues may be used for typos, broken links, or missing public files
-
----
-
 <p align="center">
-  <strong>Machine Learning · University of Tehran · Fall 1405 / Fall 2026</strong><br/>
+  <strong>Machine Learning · University of Tehran</strong><br/>
   <sub>Learn the foundations. Build the models. Understand the decisions.</sub>
 </p>
