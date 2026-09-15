@@ -6,17 +6,24 @@ The repository tracks separate calendar views for the graduate **Machine Learnin
 
 Confirmed information:
 
-- University of Tehran Fall 1405 classes begin **1405/07/04 (2026-09-26)**.
+- Fall 1405 classes begin **1405/07/04 (2026-09-26)**.
 - Lectures: **Saturday & Monday, 10:30–12:00, Class 2**.
 - Shared TA session: **Monday, 12:00–13:00**.
-- Graduate final exam: **1405/11/10 (2027-01-30), morning**; exact start time and room are to be announced.
-
-Assessment and project milestone dates are provisional unless explicitly announced as confirmed.
+- Final exam: **1405/11/10 (2027-01-30), 08:30–11:30**; room to be announced.
 
 ## Introduction to Machine Learning
 
-The exact undergraduate lecture days, time, classroom, and final-exam date are still **TBD**. Until the instructors confirm them, the undergraduate plan is organized by academic week rather than by assumed lecture dates.
+Confirmed information:
 
-The Monday **12:00–13:00** TA session is shared by both sections unless otherwise announced.
+- Lectures: **Saturday & Monday, 15:00–16:30**; classroom to be announced.
+- Shared TA session: **Monday, 12:00–13:00**.
+- Final exam: **1405/11/10 (2027-01-30), 14:00–17:00**; room to be announced.
+
+## Notes
+
+- Assessment and project milestone dates are provisional unless explicitly announced as confirmed.
+- The syllabus now concludes with **Mixture Models** and the **Expectation-Maximization (EM) Algorithm**.
+- Both sections use the same core grading/passing policy; section-specific advanced requirements are described in the course-description and policy pages.
+- The published policy assumes in-person delivery. If the course moves online, the instructors may revise assessment mechanics and announce the changes officially.
 
 When there is any conflict, the approved course calendar and official eLearn announcements take precedence over summaries in this repository.
