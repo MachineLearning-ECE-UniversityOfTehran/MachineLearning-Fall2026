@@ -2,7 +2,7 @@
 
 <h1 align="center">🧪 Exams</h1>
 <p align="center"><strong>Midterm & Final Exam public archive</strong></p>
-<p align="center"><img alt="Midterm" src="https://img.shields.io/badge/midterm-5%20points-1f4e79?style=flat-square" /> <img alt="Final" src="https://img.shields.io/badge/final-6%20points-355c7d?style=flat-square" /></p>
+<p align="center"><img alt="Midterm" src="https://img.shields.io/badge/midterm-5%20points-1f4e79?style=flat-square" /> <img alt="Final" src="https://img.shields.io/badge/final-6%20points-355c7d?style=flat-square" /> <img alt="Cutoff" src="https://img.shields.io/badge/exam%20cutoff-6%20of%2011-b62324?style=flat-square" /></p>
 
 <p align="center"><a href="../">← Course Home</a> · <a href="../quizzes/">Quizzes</a> · <a href="../ta-sessions/">TA Sessions</a> · <a href="../resources/">Resources</a></p>
 
@@ -13,18 +13,24 @@
 | Assessment | Public page | Status |
 |---|---|:--:|
 | **Midterm Exam** | [`midterm/`](midterm/) | ⏳ Schedule to be announced |
-| **Final Exam** | [`final/`](final/) | 📅 Graduate: **1405/11/10 — Morning** |
+| **Graduate Final Exam** | [`final/`](final/) | 📅 **1405/11/10 · 08:30–11:30** |
+| **Undergraduate Final Exam** | [`final/`](final/) | 📅 **1405/11/10 · 14:00–17:00** |
 
-The exact start time, room, coverage, permitted materials, and other exam instructions are announced through official course channels.
+The exact room, coverage, permitted materials, and other exam instructions are announced through official course channels.
 
-> [!NOTE]
-> Exam folders may remain intentionally minimal before the assessment. Public questions, sample material, or post-exam releases are added only when approved for publication.
+## Passing Cutoff
 
-### Graduate final
+The combined **Midterm + Final Exam** score must be at least **6 out of 11**. A student below this cutoff cannot pass the course regardless of assignment, quiz, or project points.
 
-**Date:** 1405/11/10  
-**Window:** Morning  
-**Exact time / room:** To be announced
+## Final Exam Schedule
+
+| Section | Date | Time |
+|---|---|---|
+| **Machine Learning (M.Sc.)** | 1405/11/10 · 2027-01-30 | **08:30–11:30** |
+| **Introduction to Machine Learning (B.Sc.)** | 1405/11/10 · 2027-01-30 | **14:00–17:00** |
+
+> [!IMPORTANT]
+> The examination policy assumes **in-person delivery**. If University conditions move the course online or materially change the teaching mode, exam mechanics and related rules may be revised and announced by the instructors.
 
 ---
 
