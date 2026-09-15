@@ -12,22 +12,14 @@
 
 | Assessment | Public page | Status |
 |---|---|:--:|
-| **Midterm Exam** | [`midterm/`](midterm/) | ⏳ Schedule to be announced |
-| **Graduate Final Exam** | [`final/`](final/) | 📅 **1405/11/10 · 08:30–11:30** |
-| **Undergraduate Final Exam** | [`final/`](final/) | 📅 **1405/11/10 · 14:00–17:00** |
+| **Midterm Exam** | [`midterm/`](midterm/) | ⏳ Public material when appropriate |
+| **Final Exam** | [`final/`](final/) | ⏳ Public material when appropriate |
 
-The exact room, coverage, permitted materials, and other exam instructions are announced through official course channels.
+Exact dates, times, rooms, coverage, permitted materials, and section-specific logistics are announced through the official course calendar and communication channels rather than duplicated in this public repository.
 
 ## Passing Cutoff
 
 The combined **Midterm + Final Exam** score must be at least **6 out of 11**. A student below this cutoff cannot pass the course regardless of assignment, quiz, or project points.
-
-## Final Exam Schedule
-
-| Section | Date | Time |
-|---|---|---|
-| **Machine Learning (M.Sc.)** | 1405/11/10 · 2027-01-30 | **08:30–11:30** |
-| **Introduction to Machine Learning (B.Sc.)** | 1405/11/10 · 2027-01-30 | **14:00–17:00** |
 
 > [!IMPORTANT]
 > The examination policy assumes **in-person delivery**. If University conditions move the course online or materially change the teaching mode, exam mechanics and related rules may be revised and announced by the instructors.
