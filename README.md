@@ -75,11 +75,11 @@ This repository is the public, reusable course-material hub for the University o
 |:--:|---|---|
 | 🎞️ | [**Lectures**](lectures/) | Slides and instructor-approved lecture material |
 | 🧠 | [**Assignments**](assignments/) | HW1–HW5, starter notebooks, datasets, and public release files |
-| ⚡ | [**Quizzes**](quizzes/) | Quiz information and public post-release material |
+| ⚡ | [**Quizzes**](quizzes/) | Quiz material released for study and review |
 | 🏆 | [**Final Project**](project/) | Three project phases, public instructions, and resources |
 | 🧑‍🏫 | [**TA Sessions**](ta-sessions/) | Tutorials, review sessions, and problem-solving material |
 | 📚 | [**Resources**](resources/) | Supplementary references, notebooks, and helper material |
-| 📝 | [**Course Docs**](docs/) | Policies, release structure, and repository documentation |
+| 📝 | [**Course Docs**](docs/) | Syllabus map, course-material structure, and repository documentation |
 | 🧪 | [**Exams**](exams/) | Public exam material when appropriate |
 
 ---
@@ -97,63 +97,31 @@ This repository is the public, reusable course-material hub for the University o
 
 ---
 
-## 🧠 Five Assessment Blocks
+## 🧠 Five Learning Blocks
 
 | Block | Core topics |
 |:--:|---|
-| **HW1 + Quiz 1** | Bayesian Classifiers · Risk Minimization · Decision Boundaries · Naive Bayes |
-| **HW2 + Quiz 2** | MLE · Optimization · Logistic Regression · Linear & Non-Linear Regression |
-| **HW3 + Quiz 3** | Decision Trees · SVM · Kernels · model comparison |
-| **HW4 + Quiz 4** | Neural Networks · PCA/LDA · Feature Selection |
-| **HW5 + Quiz 5** | Clustering · Mixture Models · Expectation-Maximization (EM) |
+| **01** | Bayesian Classifiers · Risk Minimization · Decision Boundaries · Naive Bayes |
+| **02** | MLE · Optimization · Logistic Regression · Linear & Non-Linear Regression |
+| **03** | Decision Trees · SVM · Kernels · model comparison |
+| **04** | Neural Networks · PCA/LDA · Feature Selection |
+| **05** | Clustering · Mixture Models · Expectation-Maximization (EM) |
 
-Whenever feasible, **one shared assignment handout** is released for both sections. Graduate-only questions are clearly marked—typically at the end of the same handout—so the repository does not maintain duplicate undergraduate/graduate copies of the same assignment.
-
----
-
-## 📊 Assessment & Passing Policy
-
-The same core grading structure applies to both sections:
-
-| Component | Points |
-|---|---:|
-| 5 Assignments | **5** |
-| 5 Quizzes | **2** |
-| Midterm Exam | **5** |
-| Final Exam | **6** |
-| Final Project | **3** |
-| **Total available** | **21** |
-
-The final course grade is reported out of **20**, so up to **1 point** functions as bonus credit.
-
-> [!WARNING]
-> **Exam cutoff:** the combined **Midterm + Final Exam** score must be at least **6/11**. A student below this cutoff cannot pass the course regardless of assignment, quiz, or project points.
-
-**Quiz–assignment cutoff:** `Quiz i` is aligned with `HW i`. If the quiz score falls below the announced numerical cutoff, the quiz score is normalized to the corresponding **1-point assignment scale** and replaces the score of `HW i`. The numerical cutoff and mapping details are announced through official course channels.
-
-This policy assumes **in-person delivery**. If teaching moves online or changes materially, quiz/exam mechanics and related rules may be revised by the instructors.
+Whenever feasible, **one shared assignment handout** is released for both sections. Graduate-only questions are clearly marked, typically at the end of the same handout, so the repository stays compact and avoids duplicate undergraduate/graduate copies.
 
 ---
 
 ## 🏆 Final Project
 
-The final project is organized in **three phases** and completed in groups of four. Whenever feasible, both sections use the same project release package. Components explicitly marked as advanced/graduate requirements are **mandatory for graduate teams** and **optional bonus work for undergraduate teams**.
-
-The project culminates in an **oral defense**. Every team member is expected to understand the complete project, and individual scores may differ according to demonstrated understanding and contribution.
+The final project is organized in **three phases** and follows a staged machine-learning workflow from problem formulation to experimental development and final defense preparation. Whenever feasible, both sections use the same public release package, with advanced graduate-only components clearly marked in the shared material.
 
 ---
 
 ## 🌐 Public Repository Principle
 
-This repository intentionally focuses on material useful beyond one classroom schedule. **Section-specific lecture times, rooms, exam times, and other operational logistics are kept in the official course calendar / announcement channels rather than duplicated here.**
+This repository is intentionally centered on **course content, learning resources, released assignments/projects, useful notebooks, and the academic progression of the course**. Section-specific schedules, grading rules, deadlines, rooms, exam logistics, and other operational policies remain in the official course documents and announcement channels rather than being duplicated here.
 
 The public repository also excludes unpublished solutions, private rubrics, grades, student data, and staff-only assessment material.
-
----
-
-## 🛡️ Academic Integrity
-
-Students must understand and be able to explain the work they submit, including AI-assisted text, derivations, or code. Ready-made Internet code and AI-generated material that the student cannot explain are not acceptable course submissions.
 
 ---
 
