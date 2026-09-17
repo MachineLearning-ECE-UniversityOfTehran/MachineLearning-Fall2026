@@ -1,38 +1,28 @@
-# Course Description & Policy
+# Public Course Structure
 
-This repository maintains the public course-description and policy material for both Fall 1405 sections:
+This repository serves both Fall 1405 sections:
 
 - **Machine Learning** — graduate (M.Sc.)
 - **Introduction to Machine Learning** — undergraduate (B.Sc.)
 
-## Shared core policy
+## Shared public material
 
-Both sections use the same core grading structure:
+Whenever feasible, the two sections use the same public lecture material, assignment handout, starter notebook, dataset, and project release. This keeps the repository compact and makes the material easier to reuse.
 
-- Assignments: **5 points**
-- Quizzes: **2 points**
-- Midterm: **5 points**
-- Final Exam: **6 points**
-- Final Project: **3 points**
-- Total available: **21 points**, reported out of 20
+Graduate-only questions or advanced requirements are clearly marked inside the shared release rather than duplicated in a separate undergraduate/graduate copy.
 
-Passing additionally requires **Midterm + Final >= 6/11**. The quiz–assignment cutoff rule is also shared: if a quiz score falls below the announced quiz cutoff, the normalized quiz score mapped to the corresponding assignment scale replaces the corresponding assignment score. The numerical cutoff is announced through official course channels.
+## Five learning blocks
 
-These rules assume **in-person delivery**. If the course moves online or the teaching mode changes materially, assessment mechanics may be revised by the instructors and announced officially.
+1. **Bayesian Classifiers · Risk Minimization · Decision Boundaries · Naive Bayes**
+2. **Maximum Likelihood Estimation · Optimization · Logistic, Linear & Non-Linear Regression**
+3. **Decision Trees · Support Vector Machines · Kernels · model comparison**
+4. **Neural Networks · PCA/LDA · Feature Selection**
+5. **Clustering · Mixture Models · Expectation-Maximization (EM)**
 
-## Section-specific requirements
+## Graduate extensions
 
-Graduate assignments may contain **1–2 additional advanced questions**, including questions from material taught only in the graduate section. These questions are not required for Introduction to Machine Learning.
+Graduate assignments may include **1–2 additional advanced questions**, including questions based on material taught only in the graduate section. Advanced project components may likewise be marked as graduate extensions in the shared project release.
 
-Advanced final-project components explicitly designated for the graduate section are **mandatory for M.Sc. teams** and **optional bonus work for B.Sc. teams**.
+## Repository scope
 
-## Syllabus update
-
-The common syllabus now concludes with **Mixture Models** and the **Expectation-Maximization (EM) Algorithm** after clustering.
-
-Official eLearn announcements and the instructor-approved description files take precedence if any summary in the repository becomes outdated.
-
-Planned public filenames:
-
-- `Machine-Learning-Fall-1405-Description.pdf`
-- `Introduction-to-Machine-Learning-Fall-1405-Description.pdf`
+This public repository focuses on course content and reusable learning material. Section-specific schedules, grading rules, deadlines, rooms, exam logistics, and similar operational details remain in the official course documents and announcement channels.
