@@ -43,11 +43,9 @@ Each `Quiz i` corresponds to the same syllabus block as `HW i`. If a student's s
 - **Introduction to ML:** graduate-only advanced questions are not required.
 - The approved course description and eLearn announcements are authoritative for grading and deadline rules.
 
-> [!IMPORTANT]
-> The current assessment policy assumes **in-person delivery**. If the course moves online or the teaching mode changes materially, quiz/exam mechanics and related rules may be revised by the instructors.
+**Important:** The current assessment policy assumes **in-person delivery**. If the course moves online or the teaching mode changes materially, quiz/exam mechanics and related rules may be revised by the instructors.
 
-> [!WARNING]
-> Public folders contain release material only. Solutions, private rubrics, grading notes, and student submissions are never stored here before an authorized public release.
+**Public-release boundary:** Public folders contain release material only. Solutions, private rubrics, grading notes, and student submissions are never stored here before an authorized public release.
 
 ---
 
